@@ -59,6 +59,7 @@ typings/
 
 .cache
 dist
+build
 
 # next.js build output
 .next
